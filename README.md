@@ -2,7 +2,7 @@
 
 Canal público de atualizações e APK genérico para Android 8.0 ou superior.
 
-[Baixar a versão mais recente](https://github.com/LeoniOliveira/minha-iptv-updates/releases/latest/download/Minha-IPTV-1.1.0.apk)
+[Baixar a versão mais recente](https://github.com/LeoniOliveira/minha-iptv-updates/releases/latest/download/Minha-IPTV-1.1.1.apk)
 
 O APK genérico não contém conta, lista nem acesso pessoal. Configure seu próprio acesso Xtream em Conta. Instale atualizações sobre a versão existente para preservar seu acesso e suas listas.
 
